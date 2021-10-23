@@ -3,7 +3,7 @@ Forum For Earth -- Education Initiative Repo
 
 Bridging to Inclusive & Decentralised Futures
 
-The Forum for Earth is an interdisciplinary education and changemaking initiative, born out of radical collaboration between a broad coalition of law, policy, public administration, technology, data governance, activist, arts, ecology, humanitarian and scientific ecosystems, organizations, and individual leaders.
+TThe Forum for Earth is an interdisciplinary education and changemaking initiative, supporting a broad coalition of law, public administration, technology, data governance, activist, arts, ecology, humanitarian and scientific ecosystems, organizations, and individual leaders. Our goal is to raise awareness with these groups of the potential for solutions to the crisis in climate and biodiversity loss from blockchain and decentralized technology infrastructure, and to support them in deploying it -- a critical part of the 'how-to' of bridging jurisdictional, participation, and incentive gaps in coordinating around collective management of local and global common risks and resources.
 
 The Forum comprises three key aspects:
  
