@@ -13,7 +13,7 @@ The Forum comprises three key aspects:
 
 3) Act - an impact lab network. Communities of artists and blockchain developers are experimenting with new ways of connecting their work to social activism and civic engagement around local and global sustainability and regeneration projects. The network will develop re-usable digital infrastructure for local solidarities and civic resource banks, and nurture bridges between the data, stories, meaning, and measurable impact woven from these collective efforts to address the crises at hand.
 
-This Education Initiative Repo will be an open source, freely accessible, repository of key reports, mixed-media, code, and template legal documentation and apps, which is developed out of the various aspects of the Forum.
+This Education Initiative Repo will be an open source, freely accessible, repository of key reports, mixed-media, code, and template legal documentation and apps, drawn and curated from the various aspects of the Forum.
 
 The first set of outputs will relate to outputs from the previous gathering held in October 2021, in Milan, alongside the pre-COP meetings, covering the following topics:
 
